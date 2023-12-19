@@ -83,10 +83,10 @@ You should also include [SL4J](https://www.slf4j.org/) in your `pom.xml` file if
 ```xml
 
 <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-jdk14</artifactId>
-            <version>2.0.9</version>
-        </dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-jdk14</artifactId>
+    <version>2.0.9</version>
+</dependency>
 ```
 
 #### Build:
