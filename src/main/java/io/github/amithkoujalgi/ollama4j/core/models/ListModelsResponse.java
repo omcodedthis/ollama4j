@@ -5,5 +5,5 @@ import lombok.Data;
 
 @Data
 public class ListModelsResponse {
-    private List<Model> models;
+    private ArrayList<Model> models;
 }
